@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="students.xsl" type="text/xsl"?>
+<class>
+    <student roll="61">
+        <fname>SGU </fname>
+        <lname>Atigre</lname>
+    </student>
+    <student roll="91">
+        <fname>SGI</fname>
+        <lname>Atigre</lname>
+    </student>
+    <student roll="1">
+          <fname>SGP</fname>
+          <lname>Atigre</lname>
+    </student>
+</class>
