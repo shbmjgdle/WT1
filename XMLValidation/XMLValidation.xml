@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<library>
+	<book>
+			<name>WebTechnology</name>
+			<author>MumbaiUniversity</author>
+			<prize>Rs.350</prize>
+			<publisher>Dreamtech Press</publisher>
+</book>
+</library>
